@@ -26,7 +26,7 @@ rec.addEventListener(
     var image = document.createElement("img");
     image.setAttribute(
       "src",
-      "https://images.pexels.com/photos/10459942/pexels-photo-10459942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "pexels-marcelo-dias-2104252.jpg"
     );
 
     div.appendChild(image);
